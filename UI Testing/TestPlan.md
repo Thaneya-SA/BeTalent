@@ -53,7 +53,7 @@ Resultado Esperado: O sistema exibe uma mensagem de erro, como "Epic sadface: Us
 
 Resultado Obtido:
 ![EntradaCredenciaisInvalidas](image.png)
-![MensagemDeErroApresentada](image-1.png)
+![MensagemDeErroApresentada](image-1.png) aberto BUG01
 
 CT03. Teste de Navegação de Produtos
 Objetivo: Verificar a navegação pelos produtos.
