@@ -4,7 +4,7 @@ Serão realizados dois tipos de testes:
 1. UI Testing
 2. API Testing
 
-Os requisitos a serem atendidos estão descritos a seguir para cada caso.
+
 ---------------------------------
 1. UI TESTING
 A tarefa aqui é testar a plataforma de e-commerce Sauce Demo (https://www.saucedemo.com). Suponha que a plataforma precisa passar por uma validação completa antes de ser lançada em produção e cabe a você testá-la. 
@@ -104,8 +104,3 @@ Caso não consiga completar os testes até o prazo definido:
 3.2 Relate na documentação quais foram as dificuldades encontradas
 3.3 Documente o que foi implementado e o que ficou pendente
 
------------------------------------
-4. Envio dos entregáveis:
-Os entregáveis de ambos os testes deverão ser hospedados em um repositório no seu GitHub. O link do repositório deverá ser fornecido por meio deste formulário. Não serão aceitos links de entregáveis enviados por outros meios.
-
-Boa sorte! 🍀

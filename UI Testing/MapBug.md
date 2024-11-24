@@ -24,3 +24,6 @@ BUG05 - [acessibilidade] Problema em identificar onde ta o click via tab
 
 BUG06 - [acessibilidade] Leitor se perde, nao le tudo, coisas nao adaptadas para leitura
 <video controls src="Evidencias/20241124-1844-13.9553836.mp4" title="LeitorPessimo"></video>
+
+BUG07 - [resposividade] Imagens deformadas para smartphones
+<video controls src="Evidencias/20241124-2035-50.4825810.mp4" title="Title"></video>
