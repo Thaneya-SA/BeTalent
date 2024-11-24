@@ -157,11 +157,15 @@ Resultado Obtido:
 
 
 6. Critérios de Aceitação
+
+
 Todos os fluxos principais, como login, navegação, adição ao carrinho, checkout e logout, devem funcionar corretamente.
 Não devem ocorrer falhas ou erros visíveis durante os testes de navegação e interação com os elementos da interface.
 O desempenho da plataforma deve ser satisfatório, com carregamento rápido das páginas.
 
-7. Plano de Execução
+8. Plano de Execução
+
+   
 Frequência dos Testes: Testes devem ser realizados após cada nova versão ou atualização da plataforma, ou sempre que houver modificações no código relevante para os fluxos de navegação e compra.
 Responsáveis: Testadores e QA (Quality Assurance) da equipe de desenvolvimento.
 
