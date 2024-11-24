@@ -32,8 +32,8 @@ Passos:
 Resultado Esperado: Todos os elementos interativos são acessíveis via teclado e o foco segue uma ordem lógica e sequencial.
 
 Resultado Obtido:
-<video controls src="20241124-1835-27.1246403.mp4" title="LoginFailTab"></video> aberto BUG04
-<video controls src="20241124-1840-06.4764660.mp4" title="ondeclica"></video> aberto BUG05
+<video controls src="Evidencias/20241124-1835-27.1246403.mp4" title="LoginFailTab"></video> aberto BUG04
+<video controls src="Evidencias/20241124-1840-06.4764660.mp4" title="ondeclica"></video> aberto BUG05
 
 CTA02. Teste de Leitores de Tela
 Objetivo: Verificar se o conteúdo da página é lido corretamente por leitores de tela (como JAWS, NVDA ou VoiceOver).
@@ -47,7 +47,7 @@ Passos:
 Resultado Esperado: O leitor de tela deve ler todas as informações de forma clara e precisa, incluindo rótulos de botões e campos de formulário.
 
 Resultado Obtido:
-<video controls src="20241124-1844-13.9553836.mp4" title="LeitorPessimo"></video> aberto BUG06
+<video controls src="Evidencias/20241124-1844-13.9553836.mp4" title="LeitorPessimo"></video> aberto BUG06
 
 CTA03. Teste de Contraste de Cores
 Objetivo: Verificar se há contraste suficiente entre o texto e o fundo para garantir legibilidade para usuários com deficiência visual (como daltonismo).
@@ -60,8 +60,8 @@ Passos:
 Resultado Esperado: Todos os textos devem ter contraste suficiente em relação ao fundo, de modo que sejam legíveis por usuários com deficiência visual.
 
 Resultado Obtido:
-![Resultadoaxe1](image-24.png)
-![Resultadoaxe2](image-25.png)
+![Resultadoaxe1](Evidencias/image-24.png)
+![Resultadoaxe2](Evidencias/image-25.png)
 
 <!-- CTA04. Teste de Uso de ARIA (Accessible Rich Internet Applications)**
 Objetivo: Verificar se a aplicação utiliza corretamente as propriedades ARIA para melhorar a acessibilidade de elementos dinâmicos, como menus, formulários e carrosséis de produtos.

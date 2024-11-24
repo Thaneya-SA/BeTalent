@@ -38,8 +38,8 @@ Senha: secret_sauce
 Resultado Esperado: O usuário é redirecionado para a página inicial de produtos.
 
 Resultado Obtido:
-![LoginValido](image-3.png)
-![LoginSucesso](image-4.png)
+![LoginValido](Evidencias/image-3.png)
+![LoginSucesso](Evidencias/image-4.png)
 
 CT02. Teste de Login - Credencial Inválida
 Objetivo: Verificar comportamento com credenciais inválidas.
@@ -52,8 +52,8 @@ Passos:
 Resultado Esperado: O sistema exibe uma mensagem de erro, como "Epic sadface: Username and password do not match any user in this service".
 
 Resultado Obtido:
-![EntradaCredenciaisInvalidas](image.png)
-![MensagemDeErroApresentada](image-1.png) aberto BUG01
+![EntradaCredenciaisInvalidas](Evidencias/image.png)
+![MensagemDeErroApresentada](Evidencias/image-1.png) aberto BUG01
 
 CT03. Teste de Navegação de Produtos
 Objetivo: Verificar a navegação pelos produtos.
@@ -67,8 +67,8 @@ Passos:
 Resultado Esperado: A página de produtos carrega corretamente, exibindo os detalhes de cada item e permitindo navegação entre as páginas.
 
 Resultado Obtido:
-![ListaProdutos](image-5.png)
-![DetalheProduto](image-6.png)
+![ListaProdutos](Evidencias/image-5.png)
+![DetalheProduto](Evidencias/image-6.png)
 
 
 CT04. Teste de Adição de Produto ao Carrinho
@@ -83,10 +83,10 @@ Passos:
 Resultado Esperado: O produto é adicionado ao carrinho e o ícone do carrinho mostra o número correto de itens.
 
 Resultado Obtido:
-![AdicionarCarrinho](image-7.png)
-![VerCarrinho](image-8.png)
-![AdicionarMaisProdutosCarrinho](image-9.png)
-![ConfereCarrinho](image-10.png)
+![AdicionarCarrinho](Evidencias/image-7.png)
+![VerCarrinho](Evidencias/image-8.png)
+![AdicionarMaisProdutosCarrinho](Evidencias/image-9.png)
+![ConfereCarrinho](Evidencias/image-10.png)
 
 
 CT05. Teste de Remoção de Produto do Carrinho
@@ -101,9 +101,9 @@ Passos:
 Resultado Esperado: O produto é removido do carrinho e o ícone de carrinho é atualizado para refletir a quantidade correta de itens.
 
 Resultado Obtido:
-![TelaProdutosCarrinho](image-9.png)
-![ItemBikeeTShirtRemove](image-12.png)
-![ConfereCarrinhoPosRemove](image-13.png)
+![TelaProdutosCarrinho](Evidencias/image-9.png)
+![ItemBikeeTShirtRemove](Evidencias/image-12.png)
+![ConfereCarrinhoPosRemove](Evidencias/image-13.png)
 
 CT06. Teste de Processo de Checkout
 Objetivo: Verificar se o checkout funciona corretamente, desde o carrinho até a confirmação do pedido.
@@ -120,12 +120,12 @@ Passos:
 Resultado Esperado: O sistema redireciona para a página de confirmação de pedido com o status "Your order has been processed".
 
 Resultado Obtido:
-![Carrinho](image-14.png)
-![Tela1Checkout](image-15.png)
-![Tela1CheckoutPreenchido](image-16.png)
-![Tela2Checkout](image-17.png)
-![Tela2CheckoutOverviewFinish](image-18.png)
-![FinishCheckout](image-19.png)
+![Carrinho](Evidencias/image-14.png)
+![Tela1Checkout](Evidencias/image-15.png)
+![Tela1CheckoutPreenchido](Evidencias/image-16.png)
+![Tela2Checkout](Evidencias/image-17.png)
+![Tela2CheckoutOverviewFinish](Evidencias/image-18.png)
+![FinishCheckout](Evidencias/image-19.png)
 
 CT07. Teste de Logout
 Objetivo: Verificar se o logout funciona corretamente.
@@ -138,8 +138,8 @@ Passos:
 Resultado Esperado: O usuário é redirecionado para a tela de login.
 
 Resultado Obtido:
-![MenuSuperiorDireito](image-20.png)
-![LogoutSucesso](image-21.png)
+![MenuSuperiorDireito](Evidencias/image-20.png)
+![LogoutSucesso](Evidencias/image-21.png)
 
 
 CT08. Teste de Navegação sem Login
@@ -152,8 +152,8 @@ Passos:
 Resultado Esperado: O sistema deve redirecionar para a tela de login.
 
 Resultado Obtido:
-![ColarEndereçoProduto](image-22.png)
-![SistemaBloqueia](image-23.png)
+![ColarEndereçoProduto](Evidencias/image-22.png)
+![SistemaBloqueia](Evidencias/image-23.png)
 
 
 6. Critérios de Aceitação
