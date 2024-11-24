@@ -5,7 +5,7 @@ Proposta de automação de testes para a plataforma Sauce Demo visa aumentar a e
 
 O objetivo da automação de testes é garantir que a plataforma Sauce Demo funcione corretamente após cada atualização e que os principais fluxos de negócios (login, navegação, carrinho de compras e checkout) sejam verificados rapidamente. A automação permitirá detectar regressões rapidamente e verificar a consistência do comportamento da aplicação.
 
- **Ferramenta utilizada Cypress foi usada, porém automação nao foi finalizada.**
+ **Framework utilizado foi o Cypress, porém automação nao foi finalizada.**
 
 1. Áreas para Automação de Testes
 
