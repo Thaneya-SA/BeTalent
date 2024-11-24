@@ -1,6 +1,11 @@
+
+
+
 Proposta de automação de testes para a plataforma Sauce Demo visa aumentar a eficiência do processo de validação, permitindo a execução de testes mais rápidos, repetitivos e consistentes, além de reduzir a dependência de testes manuais. A automação pode ser aplicada em diversas áreas da plataforma, como no login, navegação por produtos, carrinho de compras, checkout e logout, além de garantir que o desempenho, a acessibilidade e a responsividade sejam testados adequadamente.
 
 O objetivo da automação de testes é garantir que a plataforma Sauce Demo funcione corretamente após cada atualização e que os principais fluxos de negócios (login, navegação, carrinho de compras e checkout) sejam verificados rapidamente. A automação permitirá detectar regressões rapidamente e verificar a consistência do comportamento da aplicação.
+
+ **Ferramenta utilizada Cypress foi usada, porém automação nao foi finalizada.**
 
 1. Áreas para Automação de Testes
 
@@ -29,4 +34,3 @@ Login de Usuário:
 -Logout de Usuário:
   -Testar a funcionalidade de logout e redirecionamento para a página inicial.
 
-Ferramentas de Teste: Ferramentas manuais ou automação (como Selenium ou Cypress) podem ser usadas.
